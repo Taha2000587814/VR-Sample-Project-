@@ -1,2 +1,2 @@
 # VR-Sample-Project-
-Experimenting VR Features &amp; Functuality 
+Experimenting VR Features &amp; Functionality 
