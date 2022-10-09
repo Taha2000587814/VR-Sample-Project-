@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Third Party Packages/vrCampus/scenes/vrCampus.unity
+    guid: 1a36aa66e6b44084c9efbffc6dc1e40c
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 06c6f006a46ec3347a612a4e893eb103, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8960a71d20545c848b5f015a455a9aa8, type: 2}
